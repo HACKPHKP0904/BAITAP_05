@@ -1,0 +1,15 @@
+D:\BAITAP_BE_05\BE_BT5\ClassLibrary_Excel\bin\Debug\net8.0\ClassLibrary_Excel.deps.json
+D:\BAITAP_BE_05\BE_BT5\ClassLibrary_Excel\bin\Debug\net8.0\ClassLibrary_Excel.dll
+D:\BAITAP_BE_05\BE_BT5\ClassLibrary_Excel\bin\Debug\net8.0\ClassLibrary_Excel.pdb
+D:\BAITAP_BE_05\BE_BT5\ClassLibrary_Excel\bin\Debug\net8.0\Model_HoaDon.dll
+D:\BAITAP_BE_05\BE_BT5\ClassLibrary_Excel\bin\Debug\net8.0\Model_HoaDon.pdb
+D:\BAITAP_BE_05\BE_BT5\ClassLibrary_Excel\obj\Debug\net8.0\ClassLibrary_Excel.csproj.AssemblyReference.cache
+D:\BAITAP_BE_05\BE_BT5\ClassLibrary_Excel\obj\Debug\net8.0\ClassLibrary_Excel.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP_BE_05\BE_BT5\ClassLibrary_Excel\obj\Debug\net8.0\ClassLibrary_Excel.AssemblyInfoInputs.cache
+D:\BAITAP_BE_05\BE_BT5\ClassLibrary_Excel\obj\Debug\net8.0\ClassLibrary_Excel.AssemblyInfo.cs
+D:\BAITAP_BE_05\BE_BT5\ClassLibrary_Excel\obj\Debug\net8.0\ClassLibrary_Excel.csproj.CoreCompileInputs.cache
+D:\BAITAP_BE_05\BE_BT5\ClassLibrary_Excel\obj\Debug\net8.0\ClassLib.18A5054D.Up2Date
+D:\BAITAP_BE_05\BE_BT5\ClassLibrary_Excel\obj\Debug\net8.0\ClassLibrary_Excel.dll
+D:\BAITAP_BE_05\BE_BT5\ClassLibrary_Excel\obj\Debug\net8.0\refint\ClassLibrary_Excel.dll
+D:\BAITAP_BE_05\BE_BT5\ClassLibrary_Excel\obj\Debug\net8.0\ClassLibrary_Excel.pdb
+D:\BAITAP_BE_05\BE_BT5\ClassLibrary_Excel\obj\Debug\net8.0\ref\ClassLibrary_Excel.dll

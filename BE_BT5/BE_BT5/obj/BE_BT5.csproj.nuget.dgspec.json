@@ -1,0 +1,220 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\BAITAP_BE_05\\BE_BT5\\BE_BT5\\BE_BT5.csproj": {}
+  },
+  "projects": {
+    "D:\\BAITAP_BE_05\\BE_BT5\\BE_BT5\\BE_BT5.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BAITAP_BE_05\\BE_BT5\\BE_BT5\\BE_BT5.csproj",
+        "projectName": "BE_BT5",
+        "projectPath": "D:\\BAITAP_BE_05\\BE_BT5\\BE_BT5\\BE_BT5.csproj",
+        "packagesPath": "C:\\Users\\phi16\\.nuget\\packages\\",
+        "outputPath": "D:\\BAITAP_BE_05\\BE_BT5\\BE_BT5\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\phi16\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\BAITAP_BE_05\\BE_BT5\\ClassLibrary_Excel\\ClassLibrary_Excel.csproj": {
+                "projectPath": "D:\\BAITAP_BE_05\\BE_BT5\\ClassLibrary_Excel\\ClassLibrary_Excel.csproj"
+              },
+              "D:\\BAITAP_BE_05\\BE_BT5\\Model_HoaDon\\Model_HoaDon.csproj": {
+                "projectPath": "D:\\BAITAP_BE_05\\BE_BT5\\Model_HoaDon\\Model_HoaDon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[7.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BAITAP_BE_05\\BE_BT5\\ClassLibrary_Excel\\ClassLibrary_Excel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BAITAP_BE_05\\BE_BT5\\ClassLibrary_Excel\\ClassLibrary_Excel.csproj",
+        "projectName": "ClassLibrary_Excel",
+        "projectPath": "D:\\BAITAP_BE_05\\BE_BT5\\ClassLibrary_Excel\\ClassLibrary_Excel.csproj",
+        "packagesPath": "C:\\Users\\phi16\\.nuget\\packages\\",
+        "outputPath": "D:\\BAITAP_BE_05\\BE_BT5\\ClassLibrary_Excel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\phi16\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\BAITAP_BE_05\\BE_BT5\\Model_HoaDon\\Model_HoaDon.csproj": {
+                "projectPath": "D:\\BAITAP_BE_05\\BE_BT5\\Model_HoaDon\\Model_HoaDon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[7.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BAITAP_BE_05\\BE_BT5\\Model_HoaDon\\Model_HoaDon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BAITAP_BE_05\\BE_BT5\\Model_HoaDon\\Model_HoaDon.csproj",
+        "projectName": "Model_HoaDon",
+        "projectPath": "D:\\BAITAP_BE_05\\BE_BT5\\Model_HoaDon\\Model_HoaDon.csproj",
+        "packagesPath": "C:\\Users\\phi16\\.nuget\\packages\\",
+        "outputPath": "D:\\BAITAP_BE_05\\BE_BT5\\Model_HoaDon\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\phi16\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[7.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\BAITAP_BE_05\BE_BT5\Model_HoaDon\bin\Debug\net8.0\Model_HoaDon.deps.json
+D:\BAITAP_BE_05\BE_BT5\Model_HoaDon\bin\Debug\net8.0\Model_HoaDon.dll
+D:\BAITAP_BE_05\BE_BT5\Model_HoaDon\bin\Debug\net8.0\Model_HoaDon.pdb
+D:\BAITAP_BE_05\BE_BT5\Model_HoaDon\obj\Debug\net8.0\Model_HoaDon.csproj.AssemblyReference.cache
+D:\BAITAP_BE_05\BE_BT5\Model_HoaDon\obj\Debug\net8.0\Model_HoaDon.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP_BE_05\BE_BT5\Model_HoaDon\obj\Debug\net8.0\Model_HoaDon.AssemblyInfoInputs.cache
+D:\BAITAP_BE_05\BE_BT5\Model_HoaDon\obj\Debug\net8.0\Model_HoaDon.AssemblyInfo.cs
+D:\BAITAP_BE_05\BE_BT5\Model_HoaDon\obj\Debug\net8.0\Model_HoaDon.csproj.CoreCompileInputs.cache
+D:\BAITAP_BE_05\BE_BT5\Model_HoaDon\obj\Debug\net8.0\Model_HoaDon.dll
+D:\BAITAP_BE_05\BE_BT5\Model_HoaDon\obj\Debug\net8.0\refint\Model_HoaDon.dll
+D:\BAITAP_BE_05\BE_BT5\Model_HoaDon\obj\Debug\net8.0\Model_HoaDon.pdb
+D:\BAITAP_BE_05\BE_BT5\Model_HoaDon\obj\Debug\net8.0\ref\Model_HoaDon.dll
